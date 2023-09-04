@@ -1,4 +1,4 @@
-TELEGRAM: https://t.me/sanavahack
+TELEGRAM: https://t.me/serious_hack
 # CraxsRat-V6
 Craxs Rat V6 Release
 - Hello everyone , i want to introduce to you Craxs rat V6 , The New & Improved.
